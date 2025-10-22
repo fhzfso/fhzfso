@@ -13,7 +13,7 @@
 
 ## 🚀 Featured Projects
 - 🖥️ [**Jadwal Kuliah UNLAM FISIP Banjarmasin**](https://github.com/feinoire/UNLAM-Fisip-Schedule)  
-
+- 🖥️ [**Excel Converter**](https://github.com/fhzfso/Excel-Converter)
 ---
 
 # 🛠️ Tech Stack  

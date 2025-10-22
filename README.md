@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Rafei  
 
-<!--
-**fhzfso/fhzfso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 About Me
+- 🎓 A student at **SMK Negeri 4 Banjarmasin**  
+- ⚡ Known for being **fast** at getting things done  
+- ✨ I love things that are **simple yet cool**  
+- 🧠 Smart at creating **strategies** to solve challenges  
+- 😅 Honestly, I **hate coding**, but I’m determined to **grow** and gain more knowledge  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+- 🖥️ [**Jadwal Kuliah UNLAM FISIP Banjarmasin**](https://github.com/feinoire/UNLAM-Fisip-Schedule)  
+
+---
+
+# 🛠️ Tech Stack  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FF4785?logo=storybook&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+![Rafei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=feinoire&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feinoire&layout=compact&theme=tokyonight)  
+
+---
+
+## 🔗 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/rapeiii)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/fhzfso)  
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=1E90FF&lines=Welcome+to+my+GitHub!;Enjoy+exploring+my+projects!;Let's+collaborate+🚀)](https://git.io/typing-svg)

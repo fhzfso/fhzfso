@@ -21,9 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Rafei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=feinoire&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feinoire&layout=compact&theme=tokyonight)  
 
 ---
 
